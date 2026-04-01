@@ -1,73 +1,27 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
+*.pyd
 *.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environment
+.venv/
 venv/
-ENV/
 env/
-kiss-env/
-
-# IDE
+build/
+dist/
+*.egg-info/
+.idea/
 .vscode/
-.idea/
-*.swp
-*.swo
-*~
 .DS_Store
-imgui.ini
-
-# Data directories (large files)
-data/
-*.pcd
-*.las
-*.bag
-
-# Results
-results/*/
-!results/.gitkeep
-walkley_calibration_check_*/
-
-# Large visual files (keep only examples)
-*.mp4
-*.avi
-
-# Calibration outputs (keep examples)
-# Uncomment if you want to ignore all calibration files:
-# *_calibration.txt
-
-# Temporary files
-*.tmp
-*.bak
-*.log
-
-# OS
 Thumbs.db
-.DS_Store
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb
-
-# PyCharm
-.idea/
-
-resize_gif.py
+# data / outputs
+outputs/
+results/
+checkpoints/
+logs/
+*.ply
+*.pcd
+*.npy
+*.npz
+*.pt
+*.pth
