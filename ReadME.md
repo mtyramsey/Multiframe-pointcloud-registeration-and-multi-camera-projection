@@ -269,6 +269,6 @@ python make_secondary_overlay_video.py --data_dir "C:\Users\Michael\Desktop\bag_
 ## 👨‍💻 Credits
 
 **Original project foundation:** Aziz Al-Najjar
-**Extended / adapted workflow:** Matthew Ramsey
+**Extended / adapted workflow:** Michael Ramsey
 
 This repository builds directly on Aziz Al-Najjar’s original LiDAR–camera calibration and projection work and extends it with additional synchronization, visualization, and multi-frame calibration utilities.
