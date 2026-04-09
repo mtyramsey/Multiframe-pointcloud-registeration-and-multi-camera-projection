@@ -21,9 +21,6 @@ This version extends that work with:
 ---
 
 ## 📸 Demo Previews
-
-> Replace the filenames below with the actual names of your GIFs/images in the `visuals/` folder.
-
 ### Driving Through Campus with LiDAR Overlay
 ![Campus LiDAR Overlay Demo](visuals/Driving_Through_Carleton_Campus_with_LiDAR_Overlay_CameraLi.gif)
 
