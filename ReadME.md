@@ -30,11 +30,11 @@ This version extends that work with:
 ### Checkerboard Calibration Demo
 ![Checkerboard Calibration Demo](visuals/LiDARCamera_Calibration_Using_Checkerboard.gif)
 
-### Example Multi-Frame Projection Result
-![Projection Example](visuals/multiframe_projection_example.png)
+### Example Primary Camera Overlay
+![Projection Example](visuals/primarycamera_visual.png)
 
 ### Example Secondary Camera Overlay
-![Secondary Overlay Example](visuals/secondary_overlay_example.png)
+![Secondary Overlay Example](visuals/secondarycamera_visual.png)
 
 ---
 
