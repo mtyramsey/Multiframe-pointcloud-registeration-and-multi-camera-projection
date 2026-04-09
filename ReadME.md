@@ -28,7 +28,7 @@ This version extends that work with:
 ![Checkerboard Calibration Demo](visuals/LiDARCamera_Calibration_Using_Checkerboard.gif)
 
 ### Example Primary Camera Overlay
-![Projection Example](visuals/primarycamera_visual.png)
+![Projection Example](visuals/primarycameera_visual.png)
 
 ### Example Secondary Camera Overlay
 ![Secondary Overlay Example](visuals/secondarycamera_visual.png)
