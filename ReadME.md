@@ -25,10 +25,10 @@ This version extends that work with:
 > Replace the filenames below with the actual names of your GIFs/images in the `visuals/` folder.
 
 ### Driving Through Campus with LiDAR Overlay
-![Campus LiDAR Overlay Demo](visuals/campus_overlay.gif)
+![Campus LiDAR Overlay Demo](visuals/Driving_Through_Carleton_Campus_with_LiDAR_Overlay_CameraLi.gif)
 
 ### Checkerboard Calibration Demo
-![Checkerboard Calibration Demo](visuals/checkerboard_calibration.gif)
+![Checkerboard Calibration Demo](visuals/LiDARCamera_Calibration_Using_Checkerboard.gif)
 
 ### Example Multi-Frame Projection Result
 ![Projection Example](visuals/multiframe_projection_example.png)
